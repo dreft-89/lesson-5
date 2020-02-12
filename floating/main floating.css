@@ -1,0 +1,27 @@
+.blue {
+  background-color: blue;
+  width: 70%;
+  float: right;
+}
+
+.green {
+  background-color: green;
+  width: 30%;
+  float: left;
+}
+
+
+.blue {
+  background-color: blue;
+  width: 20%;
+}
+
+.green {
+  background-color: green;
+  width: 30%;
+}
+
+.float-left {
+  float: left;
+}
+
