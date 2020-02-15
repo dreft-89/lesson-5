@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+
+.container {
+    border: 5px solid black;
+    width: 1350px;
+    height: 690px;
+    display: flex;
+    padding: 10px;
+}
+
+.left-container {
+    display: flex;
+    width: 50%;
+    height: 50%;
+}
+
+.right-container {
+    display: flex;
+    width: 50%;
+}
+
+.l__element {
+   border: 1px solid white;  
+   background-color: #334867;
+   width: 50%;
+   font-size: 50px;
+   text-align: center;
+   height: 100%;
+   color: white;
+}
+
+.r__element {
+   border: 1px solid white;  
+   background-color: #334867;
+   width: 33%;
+   height: 33%;
+   font-size: 50px;
+   text-align: center;
+   color: white;
+}
