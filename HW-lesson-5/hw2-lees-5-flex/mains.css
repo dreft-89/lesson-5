@@ -32,6 +32,7 @@
    text-align: center;
    height: 100%;
    color: white;
+   line-height: 300px;
 }
 
 .r__element {
@@ -42,8 +43,5 @@
    font-size: 50px;
    text-align: center;
    color: white;
-}
-
-.element {
-    margin-top: 50px;
+   line-height: 200px;
 }
